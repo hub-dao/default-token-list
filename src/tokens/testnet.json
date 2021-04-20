@@ -1,10 +1,10 @@
 [
   {
     "name": "Wrapped HT",
-    "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+    "address": "0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836",
     "symbol": "WHT",
     "decimals": 18,
-    "chainId": 128,
+    "chainId": 256,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8524.png"
   }
 ]
