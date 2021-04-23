@@ -6,5 +6,77 @@
     "decimals": 18,
     "chainId": 256,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8524.png"
+  },
+  {
+    "name": "Heco-Peg ETH Token",
+    "address": "0xfeB76Ae65c11B363Bd452afb4A7eC59925848656",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 256,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+  },
+  {
+    "name": "Heco-Peg USDCHECO Token",
+    "address": "0xd459Dad367788893c17c09e17cFBF0bf25c62833",
+    "symbol": "USDC-HECO",
+    "decimals": 6,
+    "chainId": 256,
+    "logoURI": "https://hecoinfo.com/token/images/usdc_32.png"
+  },
+  {
+    "name": "Heco-Peg HUSD Token",
+    "address": "0x8Dd66eefEF4B503EB556b1f50880Cc04416B916B",
+    "symbol": "HUSD",
+    "decimals": 8,
+    "chainId": 256,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
+  },
+  {
+    "name": "Heco-Peg USDTHECO",
+    "address": "0x04F535663110A392A6504839BEeD34E019FdB4E0",
+    "symbol": "USDTHECO",
+    "decimals": 18,
+    "chainId": 256,
+    "logoURI": "https://mdex.com/token-icons/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a.png"
+  },
+  {
+    "name": "Heco-Peg HDOT Token",
+    "address": "0xAbE5acA6C8996482b6a7CD3f63A02FaBCc20BAE7",
+    "symbol": "HDOT",
+    "decimals": 18,
+    "chainId": 256,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+  },
+  {
+    "name": "Heco-Peg HBTC",
+    "address": "0x1D8684e6CdD65383AfFd3D5CF8263fCdA5001F13",
+    "symbol": "HBTC",
+    "decimals": 18,
+    "chainId": 256,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+  },
+  {
+    "name": "Heco-Peg HFIL Token",
+    "address": "0x58BBCE4CB3e17c7984e9E3c22337396f1b5D552E",
+    "symbol": "HFIL",
+    "decimals": 18,
+    "chainId": 256,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+  },
+  {
+    "name": "Heco-Peg XRP Token",
+    "address": "0x69AB5c067370FfcF48f1678918A719B7e1f4B4AA",
+    "symbol": "XRP",
+    "decimals": 6,
+    "chainId": 256,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+  },
+  {
+    "name": "Heco-Peg UNI Token",
+    "address": "0x4d879F43f6644784248553Ee91A2e4Dfb06fE0BC",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 256,
+    "logoURI": "https://hecoinfo.com/token/images/uni_32.png"
   }
 ]
