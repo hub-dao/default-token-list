@@ -1,6 +1,6 @@
 {
   "name": "@hubdao/default-token-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "◦ The Hubdao default token list",
   "main": "build/hubdao-default.tokenlist.json",
   "scripts": {
